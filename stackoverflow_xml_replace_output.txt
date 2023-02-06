@@ -1,0 +1,29 @@
+<?xml version="1.0" ?>
+<!DOCTYPE coverage
+  SYSTEM 'http://cobertura.sourceforge.net/xml/coverage-04.dtd'>
+<coverage branch-rate="0.0" branches-covered="0" branches-valid="0" complexity="0" line-rate="0.5936254980079682" lines-covered="447" lines-valid="753" timestamp="1672197709" version="1">
+    <packages>
+        <package line-rate="0.7614678899082569" branch-rate="0.0" name="src.services.guava.keys" complexity="0">
+            <classes>
+                <file branch-rate="0.0" complexity="0" path="src/services/guava/keys/keys.go" line-rate="0.7614678899082569" name="src.services.guava.keys.keys.go">
+                    <methods/>
+                    <lineToCovers>
+                        <lineToCover branch="false" hits="0" lineNumber="109"/>
+                        <lineToCover branch="false" hits="0" lineNumber="123"/>
+                    </lines>
+                </file>
+            </classes>
+        </package>
+        <package line-rate="0.5944055944055944" branch-rate="0.0" name="src.services.secrets.vault" complexity="0">
+            <classes>
+                <file branch-rate="0.0" complexity="0" path="src/services/guava/vault/vault.go" line-rate="0.5944055944055944" name="src.services.guava.vault.vault.go">
+                    <methods/>
+                    <lineToCovers>
+                        <lineToCover branch="false" hits="1" lineNumber="251"/>
+                        <lineToCover branch="false" hits="1" lineNumber="253"/>
+                    </lines>
+                </file>
+            </classes>
+        </package>
+    </packages>
+</coverage>
