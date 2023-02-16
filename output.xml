@@ -1,0 +1,11 @@
+<root EndDate="00" ReleaseDate="2021082310500904" StartDate="2021082310500904" Version="1.0.0">
+  <Type Desc="FA VW Golf MIR S1+" OID="73975" SrcOID="73942" TID="3" name="0204N01319-00">
+    <Component OID="166916" SrcOID="419" TID="8" name="Pos994_L_LabelFileName">
+      <ComponentNo OID="4151" SrcOID="4151" TID="19" name="Labeldaten">
+        <CompAttrVal DataType="String" OID="4205" SrcOID="4205" TID="10" Value="VW_FH267" name="updated_value" />
+        <CompAttrVal DataType="String" OID="4206" SrcOID="4206" TID="10" Value="right" name="updated_value" />
+        <CompAttrVal DataType="String" OID="4207" SrcOID="4207" TID="10" Value="right" name="updated_value" />
+      </ComponentNo>
+ </Component>
+</Type>
+</root>
