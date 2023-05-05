@@ -1,1 +1,28 @@
-{"details": [{"Name": "Ali", "Gender": "Male", "Remarks": "You are naughty", "Docs": "This is one document"}, {"Name": "Eraj", "Gender": "Female", "Remarks": "HAHA superb I GOT GOLD MEDAL", "Docs": "This is second document"}, {"Name": "Yasir", "Gender": "Male", "Remarks": "Yasir is dirty boy", "Docs": "This is a nice document"}, {"Name": "Maryam", "Gender": "Female", "Remarks": "Maryam is a good UI/UX Designer", "Docs": "This is a beautiful document and have great experience"}]}
+{
+    "details": [
+        {
+            "Name": "Ali",
+            "Gender": "Male",
+            "Remarks": "You are naughty",
+            "Docs": "This is one document"
+        },
+        {
+            "Name": "Eraj",
+            "Gender": "Female",
+            "Remarks": "HAHA superb I GOT GOLD MEDAL",
+            "Docs": "This is second document"
+        },
+        {
+            "Name": "Yasir",
+            "Gender": "Male",
+            "Remarks": "Yasir is dirty boy",
+            "Docs": "This is a nice document"
+        },
+        {
+            "Name": "Maryam",
+            "Gender": "Female",
+            "Remarks": "Maryam is a good UI/UX Designer",
+            "Docs": "This is a beautiful document and have great experience"
+        }
+    ]
+}
