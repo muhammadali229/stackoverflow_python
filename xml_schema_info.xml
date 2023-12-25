@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<studentData xmlns="http://www.myschool.com/schmea/studentData" xmlns:xsi="http://www.w3.org/2000/10/XMLSchema-instance" xsi:schemaLocation="http://www.myschool.com/schmea/studentData Studentdata.xsd">
+   <stuRec>
+      <as>
+         <sourceSys>BBC</sourceSys>
+         <acctDt>2023-04-04</acctDt>
+      </as>
+      <stats>
+         <ss>
+            <prov>AB</prov>
+            <cono>1</cono>
+         </ss>
+      </stats>
+   </stuRec>
+   <stuRec>
+      <as>
+         <sourceSys>RCD</sourceSys>
+         <acctDt>2023-05-14</acctDt>
+      </as>
+      <stats>
+         <ss>
+            <prov>ON</prov>
+            <cono>2</cono>
+         </ss>
+      </stats>
+   </stuRec>
+</studentData>
